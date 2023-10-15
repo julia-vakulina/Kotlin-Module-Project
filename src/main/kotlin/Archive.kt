@@ -1,0 +1,1 @@
+class Archive (override val name: String, val notesList: MutableList<Note>): File
